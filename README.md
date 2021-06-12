@@ -1,1 +1,1 @@
-# Tick-Tock
+# only the second and minute hand
